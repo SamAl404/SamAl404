@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Junior Full-Stack Developer experienced in building personal projects using React, Node.js, NestJS, and Express. Also worked with Java backend technologies (Spring Boot, Tomcat, Gradle). 
+Developer experienced in building personal projects using React, Node.js, NestJS, and Express. Also worked with Java backend technologies (Spring Boot, Tomcat, Gradle). 
 
 Currently learning AWS (EC2, S3, Lambda, RDS) and focused on creating scalable, reliable web applications. Open to entry-level full-stack opportunities.
 
