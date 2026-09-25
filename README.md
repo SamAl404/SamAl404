@@ -14,20 +14,20 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a **Backend Engineer** focused on system design and scalability, mainly working with **TypeScript** and **PostgreSQL** and comfortable taking on frontend work too. I'm also a Technical Co-Founder at **Lymon**, a hotel SaaS startup.
 
-- 🏗️ Designing applications with **NestJS**, **Spring Boot**, and **Clean Architecture** principles
-- 📈 Interested in **system design, scalability**, and cloud infrastructure on **AWS**
-- 🔁 Used to working in **Agile/Scrum** teams
-- 🎓 Technology Degree in Software Development 
-- 🌎 🇪🇸 Native Spanish · 🇺🇸 Fluent English
-- 📚 Currently learning: **CI/CD pipelines** & **Infrastructure as Code**
+-  Designing applications with **NestJS**, **Spring Boot**, and **Clean Architecture** principles
+-  Interested in **system design, scalability**, and cloud infrastructure on **AWS**
+-  Used to working in **Agile/Scrum** teams
+-  Technology Degree in Software Development 
+-  🇪🇸 Native Spanish · 🇺🇸 Fluent English
+-  Currently learning: **CI/CD pipelines** & **Infrastructure as Code**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p>
@@ -73,7 +73,7 @@ I'm a **Backend Engineer** focused on system design and scalability, mainly work
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 #### <a href="https://github.com/LymonColombia"><img src="https://github.com/LymonColombia.png" width="28" align="center" alt="Lymon" /></a> [Lymon — Lyhost Hotel SaaS Platform](https://github.com/LymonColombia)
 > B2B SaaS for the hospitality sector covering hotel management, CRM, and guest bookings.
